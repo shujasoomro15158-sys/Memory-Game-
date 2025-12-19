@@ -1,0 +1,5 @@
+{
+  "name": "Memory Game : The Emoji Memory Challenge",
+  "description": "A modern, responsive memory card game featuring smooth flip animations, move tracking, and AI-powered victory celebrations using Gemini.",
+  "requestFramePermissions": []
+}
